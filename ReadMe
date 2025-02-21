@@ -1,0 +1,7 @@
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+
+Start the process for installing your env
+1. Install node.js
+2. npm innit -y
+3. npm install express mongodb dotenv (dependencies)
